@@ -29,4 +29,4 @@ SELECT
 FROM 
     RankedSales
 WHERE 
-    sales_rank <= 15;
+    sales_rank <= 215;
